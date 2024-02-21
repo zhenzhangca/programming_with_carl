@@ -1,4 +1,4 @@
-package day02;
+package day01.day01_02;
 
 /**
  * Leetcode 977 有序数组的平方，如果input中都是正数，直接linear scan 取每个元素的平方即可，

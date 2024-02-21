@@ -1,4 +1,4 @@
-package day01;
+package day01.day01_01;
 
 /**
  * Leetcode 704 Binary Search

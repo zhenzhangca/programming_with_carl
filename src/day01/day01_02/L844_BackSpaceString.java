@@ -1,4 +1,4 @@
-package day02;
+package day01.day01_02;
 
 /**
  * Leetcode 284 比较含退格键#的字符串，退格之后，两个字符串是否相同

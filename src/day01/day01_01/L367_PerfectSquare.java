@@ -1,4 +1,4 @@
-package day01;
+package day01.day01_01;
 
 /**
  * Leetcode 367 判断一个数是否是完全平方数

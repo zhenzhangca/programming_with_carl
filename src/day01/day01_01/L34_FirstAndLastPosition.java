@@ -1,4 +1,4 @@
-package day01;
+package day01.day01_01;
 
 /**
  * Leetcode 34 Find First and Last Position of Element in Sorted Array

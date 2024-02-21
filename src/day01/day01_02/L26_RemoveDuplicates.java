@@ -1,4 +1,4 @@
-package day02;
+package day01.day01_02;
 
 /**
  * Leetcode 26 Remove Duplicates from sorted array
