@@ -35,7 +35,7 @@ public class L977_SquareOfSortedArray {
         int right = nums.length - 1;
         int k = nums.length - 1;
         int[] result = new int[nums.length];
-        while(left <= right){
+        while(left <= right){  //确保每个元素都处理一遍求平方，所以left>right 即[left,right]是空集时停止while循环
             if(nums[left] * nums[left] > nums[right]*nums[right]){
                 result[k] = nums[left] * nums[left];
                 left++;
